@@ -14,6 +14,7 @@ This repository keeps track of all of my readings and writing for the _**100 Day
 | 9 | July 21, 2022 | <ul><li>[Fundamentals using JavaScript](https://dev.to/bipon68/programming-fundamentals-using-javascript-2ooi)</li></ul> |
 | 10 | July 22, 2022 | <ul><li>[Map, Filter, and Reduce in JavaScript](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)</li></ul> |
 | 11 | Aug 10, 2022 | <ul><li>[30 Angular tricks and tips](https://espeo.eu/blog/30-angular-and-ts-tricks-and-tips-that-will-improve-your-application/)</li></ul> |
+| 12 | Aug 11, 2022 | <ul><li>[Basic Concepts of Angular](https://www.documentobject.com/blog/learn-angular-basics/)</li><li>[19 Things You Need to Learn to Become an Effective Angular Developer](https://www.dottedsquirrel.com/things-to-learn-angular/)</li></ul> |
 
 
 
