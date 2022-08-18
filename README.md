@@ -15,6 +15,14 @@ This repository keeps track of all of my readings and writing for the _**100 Day
 | 10 | July 22, 2022 | <ul><li>[Map, Filter, and Reduce in JavaScript](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)</li></ul> |
 | 11 | Aug 10, 2022 | <ul><li>[30 Angular tricks and tips](https://espeo.eu/blog/30-angular-and-ts-tricks-and-tips-that-will-improve-your-application/)</li></ul> |
 | 12 | Aug 11, 2022 | <ul><li>[Basic Concepts of Angular](https://www.documentobject.com/blog/learn-angular-basics/)</li><li>[19 Things You Need to Learn to Become an Effective Angular Developer](https://www.dottedsquirrel.com/things-to-learn-angular/)</li></ul> |
+| 13 | Aug 17, 2022 | <ul><li>[Observables VS Promise in Angular 11](https://www.youtube.com/watch?v=AdOEVDvyS5c)</li></ul> |
+| 14 | Aug 18, 2022 | <ul><li>[Understanding Redux: Centralizing Application State in React](https://www.vivasoftltd.com/understanding-redux)</li></ul> |
+| 15 | Aug 19, 2022 | <ul><li>[Promises vs Observables in 2 minutes](https://www.youtube.com/watch?v=3rbikUwGf9Y)</li><li>[Promises vs Observables - Angular](https://www.youtube.com/watch?v=qfKkDEudaRs)</li></ul> |
+
+
+
+
+
 
 
 
